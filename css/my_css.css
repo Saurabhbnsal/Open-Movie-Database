@@ -1,0 +1,58 @@
+	
+.new_img
+{
+	 width: 230px;
+	 height: 360px;
+	 padding: 4px auto;
+}
+.form-group
+{
+	padding: 5px;
+}
+
+#sort_title,#sort_year
+{
+	opacity: .8;
+}
+.panel
+{
+    margin-left: 10px;
+}
+.panel-footer
+{
+	background: white;
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+	text-align: center;
+	color:black;
+}
+.navbar
+{
+	background: white;
+}
+.panel-body
+{
+	background:white;
+}
+
+.my-text{
+	color: white !important;
+	font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif !important;
+	padding: 5px;
+		border-bottom:1px solid white;
+
+}
+
+.navbar-right
+{
+	margin-top: 5px;
+}
+.xyz
+{
+	margin-top: 5px;
+	margin-bottom:15px;
+
+}
+body{
+
+	background-color: black !important;
+}
